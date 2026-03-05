@@ -1,15 +1,12 @@
 ## My Macropad
----
 myMacropad is a personal project I made for Hack Club Blueprint. It uses a 3x3 keyboard with a rotary encoder. It uses a Seeed XIAO RP2040 and QMK firmware.
 
 ## Features
----
 - 2-part 3D-printed case
 - EC11 Rotary encoder
 - 9 Keys
 
 ## CAD Model:
----
 The case fits together using 4 M3 Bolts that fit through the case and PCB. It comes in two pieces - the top and bottom of the case. On the top of the case is 
 engraved "per aspera ad astra", meaning "through tough times, to the stars" (ignore how I got the word order in the phrases wrong) (as a Latin kid I can vet 
 word order doesn't matter in Latin anyway!!!)
@@ -17,7 +14,6 @@ word order doesn't matter in Latin anyway!!!)
 <img width="750" height="714" alt="Screenshot 2026-03-05 002817" src="https://github.com/user-attachments/assets/1c2ce5e1-abe6-4211-a15e-db46300b11b3" />
 
 ## PCB:
----
 This PCB was made using KiCad!
 
 Schematic:
@@ -31,11 +27,9 @@ PCB
 Specific footprints can be found in the extras folder in the pcb folder.
 
 ## Firmware Overview
----
 This hackpad uses QMK firmware for everything. However, it's not flashed yet because I don't actually have the PCB yet!
 
 ## BOM:
----
 Everything you need to make this hackpad:
 - 9x MX-Style Switches
 - 9x DSA Keycaps
