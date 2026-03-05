@@ -27,10 +27,10 @@ PCB
 Specific footprints can be found in the extras folder in the pcb folder.
 
 ## Firmware Overview
-This hackpad uses QMK firmware for everything. However, it's not flashed yet because I don't actually have the PCB yet!
+This macropad uses QMK firmware for everything. However, it's not flashed yet because I don't actually have the PCB yet!
 
 ## BOM:
-Everything you need to make this hackpad:
+Everything you need to make this macropad:
 - 9x MX-Style Switches
 - 9x DSA Keycaps
 - 1 x EC11 Rotary encoder
