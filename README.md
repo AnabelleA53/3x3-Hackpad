@@ -18,7 +18,8 @@ This PCB was made using KiCad!
 
 Schematic:
 
-<img width="1125" height="889" alt="Screenshot 2026-03-05 225421" src="https://github.com/user-attachments/assets/7c27478f-ffea-4a16-beb7-74581a53faf3" />
+<img width="1132" height="894" alt="Screenshot 2026-03-05 230520" src="https://github.com/user-attachments/assets/bda55571-753b-4765-8b3d-ca89d86192c3" />
+
 
 
 PCB
