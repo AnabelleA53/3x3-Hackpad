@@ -18,11 +18,13 @@ This PCB was made using KiCad!
 
 Schematic:
 
-<img width="1136" height="893" alt="Screenshot 2026-03-05 003314" src="https://github.com/user-attachments/assets/61e03e83-ddce-482c-a396-45b51188f8b9" />
+<img width="1125" height="889" alt="Screenshot 2026-03-05 225421" src="https://github.com/user-attachments/assets/7c27478f-ffea-4a16-beb7-74581a53faf3" />
+
 
 PCB
 
-<img width="535" height="598" alt="Screenshot 2026-03-05 003134" src="https://github.com/user-attachments/assets/562422e4-dc50-4050-af1c-95d2c717275d" />
+<img width="707" height="854" alt="Screenshot 2026-03-05 230131" src="https://github.com/user-attachments/assets/31415028-df1c-46b8-b2d1-5b00c120622e" />
+
 
 Specific footprints can be found in the extras folder in the pcb folder.
 
