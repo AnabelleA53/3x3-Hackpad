@@ -1406,16 +1406,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 121.92) (xy 165.1 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4890502c-071a-44b6-b0ac-e8cf40ea63d3")
-	)
-	(wire
-		(pts
 			(xy 228.6 106.68) (xy 223.52 106.68)
 		)
 		(stroke
@@ -1543,16 +1533,6 @@
 			(type default)
 		)
 		(uuid "808a2fe2-e942-4cfe-9626-7660ec6f63b0")
-	)
-	(wire
-		(pts
-			(xy 240.03 77.47) (xy 240.03 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81372aea-345a-40c9-93c9-cad9c272d1b7")
 	)
 	(wire
 		(pts
@@ -1884,16 +1864,6 @@
 		)
 		(uuid "8fd291d1-9499-4f72-a8fb-6616acb6d3b4")
 	)
-	(label "EC11MP"
-		(at 240.03 86.36 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "976d49f4-5740-4750-907b-860ffbe00a79")
-	)
 	(label "Row 0"
 		(at 106.68 106.68 0)
 		(effects
@@ -1903,16 +1873,6 @@
 			(justify left bottom)
 		)
 		(uuid "9dd2b5d5-3d44-47db-87c3-4a1553d4fb4c")
-	)
-	(label "EC11MP"
-		(at 165.1 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9e2cd120-f598-4aed-9048-35aab3a4fa97")
 	)
 	(label "EC11A"
 		(at 257.81 67.31 0)
